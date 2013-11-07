@@ -1,15 +1,1 @@
-<administration>
-		<menu link="option=com_easyblog" img="../media/com_easyblog/images/easyblog-16x16.png">COM_EASYBLOG</menu>
-		<submenu>
-			<menu view="acls" img="components/com_easyblog/assets/images/acls-favicon.png">Courses</menu>
-			<menu view="blogs" img="components/com_easyblog/assets/images/blogs-favicon.png">Exams</menu>
-			<menu view="categories" img="components/com_easyblog/assets/images/categories-favicon.png">Certificates</menu>
-	 
-		</submenu>
-		<files folder="admin"> 
-			<folder>models</folder> 
-			<folder>views</folder>  
-			<filename>myaccount.php</filename> 
-			<filename>myaccount.xml</filename> 
-		</files> 
-	</administration>
+
